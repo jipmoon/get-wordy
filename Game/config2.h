@@ -2,8 +2,8 @@
 //  config.h
 //  Game
 //
-//  Created by Mr.D on 2013-11-23.
-//  Copyright (c) 2013 pengzhi. All rights reserved.
+//  Created by Hyung Jip Moon on 2013-11-23.
+//  Copyright (c) 2013 hyungjip. All rights reserved.
 //
 
 #ifndef Game_config_h

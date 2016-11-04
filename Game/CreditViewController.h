@@ -3,7 +3,7 @@
 //  Game
 //
 //  Created by Hyung Jip Moon on 11/30/13.
-//  Copyright (c) 2013 pengzhi. All rights reserved.
+//  Copyright (c) 2013 hyungjip. All rights reserved.
 //
 //  Description: This class is a LoginViewController shows the Login view
 //               Users can login with their registered username and password

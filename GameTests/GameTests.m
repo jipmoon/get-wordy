@@ -2,8 +2,8 @@
 //  GameTests.m
 //  GameTests
 //
-//  Created by Pengzhi Duan on 2013-11-05.
-//  Copyright (c) 2013 pengzhi. All rights reserved.
+//  Created by Hyung Jip Moon on 2013-11-05.
+//  Copyright (c) 2013 hyungjip. All rights reserved.
 //
 
 #import "GameTests.h"

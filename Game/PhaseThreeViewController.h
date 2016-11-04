@@ -2,8 +2,8 @@
 //  Phase three ViewController.h
 //  Game
 //
-//  Created by Pengzhi Duan on 2013-11-05.
-//  Copyright (c) 2013 pengzhi. All rights reserved.
+//  Created by Hyung Jip Moon on 2013-11-05.
+//  Copyright (c) 2013 Hyung Jip Moon. All rights reserved.
 //
 //  Description: This class manages the third phase of the game.
 //
